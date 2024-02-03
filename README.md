@@ -1,8 +1,5 @@
-# Project Name
+# Kalvium Book Store
 
-Brief description of your project.
-
-## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
